@@ -1,0 +1,4 @@
+com\test\api\JAXRSConfiguration.class
+com\test\api\ApplicationConfig.class
+com\test\api\ContarResource.class
+com\test\api\resources\JavaEE8Resource.class
